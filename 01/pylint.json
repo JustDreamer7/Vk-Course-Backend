@@ -1,0 +1,54 @@
+[
+    {
+        "type": "\u001b[1mconvention\u001b[0m",
+        "module": "tictactoe",
+        "obj": "",
+        "line": 82,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "01\\tictactoe.py",
+        "symbol": "\u001b[1mline-too-long\u001b[0m",
+        "message": "\u001b[1mLine too long (107/100)\u001b[0m",
+        "message-id": "C0301"
+    },
+    {
+        "type": "\u001b[1mconvention\u001b[0m",
+        "module": "tictactoe",
+        "obj": "",
+        "line": 99,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "01\\tictactoe.py",
+        "symbol": "\u001b[1mline-too-long\u001b[0m",
+        "message": "\u001b[1mLine too long (104/100)\u001b[0m",
+        "message-id": "C0301"
+    },
+    {
+        "type": "\u001b[1mconvention\u001b[0m",
+        "module": "tictactoe",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "01\\tictactoe.py",
+        "symbol": "\u001b[1mmissing-module-docstring\u001b[0m",
+        "message": "\u001b[1mMissing module docstring\u001b[0m",
+        "message-id": "C0114"
+    },
+    {
+        "type": "\u001b[35mwarning\u001b[0m",
+        "module": "tictactoe",
+        "obj": "TicTacGame.validate_input",
+        "line": 72,
+        "column": 12,
+        "endLine": 73,
+        "endColumn": 89,
+        "path": "01\\tictactoe.py",
+        "symbol": "\u001b[35mraise-missing-from\u001b[0m",
+        "message": "\u001b[35mConsider explicitly re-raising using 'except ValueError as exc' and 'raise ValueError('\u041d\u0435 \u0431\u0430\u043b\u0443\u0439\u0442\u0435\u0441\u044c \u0441\u043e \u0441\u0442\u0435\u043f\u0435\u043d\u044f\u043c\u0438, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u043e\u043b\u043d\u043e\u0440\u0430\u0437\u043c\u0435\u0440\u043d\u043e\u0435 ' + '\u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u043e\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0434\u043e \u0432\u043e\u0441\u044c\u043c\u0438') from exc'\u001b[0m",
+        "message-id": "W0707"
+    }
+]
